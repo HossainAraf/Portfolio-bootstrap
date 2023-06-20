@@ -29,7 +29,7 @@ It is an assignment given by Microverse.  The following technologies will be imp
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio: Mobile First <a name="about-project"></a>
+# 📖 Portfolio Website <a name="about-project"></a>
 
 > 'Portfolio: Mobile First' is a personal portfolio project using html and css.
 
@@ -37,8 +37,8 @@ It is an assignment given by Microverse.  The following technologies will be imp
 ### Tech Stack <a name="tech-stack"></a>
 
 1. HTML5
-2. CSS
-3. HTML-CSS linters
+2. Bootstap
+3. HTML-CSS-Js linters
 
 <details>
   <summary>Client</summary>
@@ -51,8 +51,9 @@ It is an assignment given by Microverse.  The following technologies will be imp
 <!-- Features -->
 ### Key Features <a name="key-features"></a>
 1. Added index.html file
-2. Added stle.css file
-3. Added linters : hint & stylelint
+2. Installed Bootstrap
+3. Linked Bootstap with html
+4. Added linters : webhint, stylelint, eslint
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,7 +77,7 @@ Run the below command:
 
 ```sh
 cd <your disered folder name >
-git clone https://github.com/HossainAraf/Portfolio
+git clone git@github.com:HossainAraf/Portfolio-bootstrap.git
 ```
 ### Install
 
@@ -102,10 +103,10 @@ Open index.html file either directly or using live server
 - GitHub: <a href="https://github.com/HossainAraf">HossainAraf </a>
 - LinkedIn: <a href="https://linkedin.com/in/md-arafat-hossain-111403275"> Md. Arafat Hossain </a>
 
-👤 Donice Ubaru
+👤 **
 
-- GitHub: <a href="https://github.com/drdonice">DrDonice</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/doniceubaru/">Donice Ubaru</a>
+- GitHub: <a href=""></a>
+- LinkedIn: <a href=""></a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -115,7 +116,6 @@ Open index.html file either directly or using live server
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
-- [ ] Add footer
 - [ ] Add more pages
 - [ ] Add javascript file
 
@@ -143,7 +143,7 @@ If you like this project give a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse team
+We would like to thank Microverse team
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
