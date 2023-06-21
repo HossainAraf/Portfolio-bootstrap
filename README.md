@@ -1,5 +1,5 @@
-# Portfolio-Mobile-First
-It is an assignment given by Microverse.  The following technologies will be implemented: 1. Linters: hint, stylelint 2. CCS , CSS-grid, Flex-box 3. VS code 4. Git &amp; Github
+# Portfolio-bootstrap
+
 <a name="readme-top"></a>
 
 <div align="center">
@@ -31,29 +31,31 @@ It is an assignment given by Microverse.  The following technologies will be imp
 
 # 📖 Portfolio Website <a name="about-project"></a>
 
-> 'Portfolio: Mobile First' is a personal portfolio project using html and css.
+> 'Portfolio: bootstrap' is a personal portfolio project using html and bootstrap.
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
 
 1. HTML5
-2. Bootstap
+2. Bootstrap
 3. HTML-CSS-Js linters
 
 <details>
   <summary>Client</summary>
   <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Bootstrap</a></li>
   </ul>
 </details>
 
 <!-- Features -->
 ### Key Features <a name="key-features"></a>
-1. Added index.html file
-2. Installed Bootstrap
-3. Linked Bootstap with html
-4. Added linters : webhint, stylelint, eslint
+1. Toogle menu 
+2. Scrollspy
+3. Cards (Projets)
+4. Modals
+5. Badge
+6. Form
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,7 +105,7 @@ Open index.html file either directly or using live server
 - GitHub: <a href="https://github.com/HossainAraf">HossainAraf </a>
 - LinkedIn: <a href="https://linkedin.com/in/md-arafat-hossain-111403275"> Md. Arafat Hossain </a>
 
-👤 **
+👤 Muhammad Bilal Liaquat
 
 - GitHub: <a href=""></a>
 - LinkedIn: <a href=""></a>
@@ -118,6 +120,7 @@ Open index.html file either directly or using live server
 > Describe 1 - 3 features you will add to the project.
 - [ ] Add more pages
 - [ ] Add javascript file
+- [ ] Add javascript framework/library
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
