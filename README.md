@@ -6,8 +6,6 @@
   <h5><b>Explore an impressive portfolio project built exclusively with Bootstrap, HTML, and CSS. Immerse yourself in a collection of captivating web designs, showcasing responsive layouts, sleek UI components, and an intuitive user experience. Witness the power of Bootstrap in crafting visually appealing and functional web applications.</b></h5>
 </div>
 
-<p</p>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
