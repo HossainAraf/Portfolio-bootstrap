@@ -6,6 +6,8 @@
   <h3><b>Portfolio</b></h3>
 </div>
 
+<p>Explore an impressive portfolio project built exclusively with Bootstrap, HTML, and CSS. Immerse yourself in a collection of captivating web designs, showcasing responsive layouts, sleek UI components, and an intuitive user experience. Witness the power of Bootstrap in crafting visually appealing and functional web applications.</p>
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
